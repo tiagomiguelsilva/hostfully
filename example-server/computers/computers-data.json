@@ -1,0 +1,4594 @@
+[
+  {
+    "id": 381,
+    "name": "ACE",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/381"
+  },
+  {
+    "id": 501,
+    "name": "AN/FSQ-32",
+    "introduced": "01 Jan 1960",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/501"
+  },
+  {
+    "id": 500,
+    "name": "AN/FSQ-7",
+    "introduced": "01 Jan 1958",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/500"
+  },
+  {
+    "id": 388,
+    "name": "APEXC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/388"
+  },
+  {
+    "id": 355,
+    "name": "ARRA",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/355"
+  },
+  {
+    "id": 385,
+    "name": "ASCI Blue Mountain",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/385"
+  },
+  {
+    "id": 313,
+    "name": "ASCI Blue Pacific",
+    "introduced": "01 Jan 1998",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/313"
+  },
+  {
+    "id": 384,
+    "name": "ASCI Purple",
+    "introduced": "01 Jan 2005",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/384"
+  },
+  {
+    "id": 382,
+    "name": "ASCI Red",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/382"
+  },
+  {
+    "id": 383,
+    "name": "ASCI Thors Hammer",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/383"
+  },
+  {
+    "id": 311,
+    "name": "ASCI White",
+    "introduced": "01 Jan 2001",
+    "discontinued": "01 Jan 2006",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/311"
+  },
+  {
+    "id": 525,
+    "name": "ASUS Eee PC 1005PE",
+    "introduced": "01 Jan 2010",
+    "discontinued": "-",
+    "company": "ASUS",
+    "url": "https://computer-database.gatling.io/computers/525"
+  },
+  {
+    "id": 302,
+    "name": "ASUS Eee PC 701",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/302"
+  },
+  {
+    "id": 439,
+    "name": "ASUS Eee PC 900",
+    "introduced": "01 May 2008",
+    "discontinued": "-",
+    "company": "ASUS",
+    "url": "https://computer-database.gatling.io/computers/439"
+  },
+  {
+    "id": 301,
+    "name": "ASUS Eee PC 901",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "ASUS",
+    "url": "https://computer-database.gatling.io/computers/301"
+  },
+  {
+    "id": 330,
+    "name": "Acer Extensa",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/330"
+  },
+  {
+    "id": 331,
+    "name": "Acer Extensa 5220",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/331"
+  },
+  {
+    "id": 543,
+    "name": "Acer Iconia",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/543"
+  },
+  {
+    "id": 152,
+    "name": "Acorn Archimedes",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Acorn computer",
+    "url": "https://computer-database.gatling.io/computers/152"
+  },
+  {
+    "id": 418,
+    "name": "Acorn Electron",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/418"
+  },
+  {
+    "id": 46,
+    "name": "Acorn System 2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/46"
+  },
+  {
+    "id": 542,
+    "name": "Alex eReader",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/542"
+  },
+  {
+    "id": 57,
+    "name": "Altair 8800",
+    "introduced": "19 Dec 1974",
+    "discontinued": "-",
+    "company": "Micro Instrumentation and Telemetry Systems",
+    "url": "https://computer-database.gatling.io/computers/57"
+  },
+  {
+    "id": 70,
+    "name": "Amiga",
+    "introduced": "01 Jan 1985",
+    "discontinued": "-",
+    "company": "Amiga Corporation",
+    "url": "https://computer-database.gatling.io/computers/70"
+  },
+  {
+    "id": 71,
+    "name": "Amiga 1000",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/71"
+  },
+  {
+    "id": 129,
+    "name": "Amiga 1200",
+    "introduced": "01 Oct 1992",
+    "discontinued": "01 Jan 1996",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/129"
+  },
+  {
+    "id": 448,
+    "name": "Amiga 1500",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/448"
+  },
+  {
+    "id": 74,
+    "name": "Amiga 2000",
+    "introduced": "01 Jan 1986",
+    "discontinued": "01 Jan 1990",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/74"
+  },
+  {
+    "id": 348,
+    "name": "Amiga 2000 Model A",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/348"
+  },
+  {
+    "id": 349,
+    "name": "Amiga 2000 Model B",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/349"
+  },
+  {
+    "id": 350,
+    "name": "Amiga 2000 Model C",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/350"
+  },
+  {
+    "id": 123,
+    "name": "Amiga 2500",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/123"
+  },
+  {
+    "id": 124,
+    "name": "Amiga 2500",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/124"
+  },
+  {
+    "id": 75,
+    "name": "Amiga 3000",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/75"
+  },
+  {
+    "id": 127,
+    "name": "Amiga 3000T",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/127"
+  },
+  {
+    "id": 126,
+    "name": "Amiga 3000UX",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/126"
+  },
+  {
+    "id": 125,
+    "name": "Amiga 4000",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/125"
+  },
+  {
+    "id": 128,
+    "name": "Amiga 4000T",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/128"
+  },
+  {
+    "id": 72,
+    "name": "Amiga 500",
+    "introduced": "01 Jan 1987",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/72"
+  },
+  {
+    "id": 73,
+    "name": "Amiga 500+",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/73"
+  },
+  {
+    "id": 76,
+    "name": "Amiga 600",
+    "introduced": "01 Mar 1992",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/76"
+  },
+  {
+    "id": 411,
+    "name": "Amstrad CPC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Amstrad",
+    "url": "https://computer-database.gatling.io/computers/411"
+  },
+  {
+    "id": 414,
+    "name": "Amstrad CPC 464",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Amstrad",
+    "url": "https://computer-database.gatling.io/computers/414"
+  },
+  {
+    "id": 412,
+    "name": "Amstrad CPC 6128",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Amstrad",
+    "url": "https://computer-database.gatling.io/computers/412"
+  },
+  {
+    "id": 413,
+    "name": "Amstrad CPC 664",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Amstrad",
+    "url": "https://computer-database.gatling.io/computers/413"
+  },
+  {
+    "id": 365,
+    "name": "Analytical engine",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/365"
+  },
+  {
+    "id": 55,
+    "name": "Apple I",
+    "introduced": "01 Apr 1976",
+    "discontinued": "01 Oct 1977",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/55"
+  },
+  {
+    "id": 16,
+    "name": "Apple II",
+    "introduced": "01 Apr 1977",
+    "discontinued": "01 Oct 1993",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/16"
+  },
+  {
+    "id": 11,
+    "name": "Apple II Plus",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/11"
+  },
+  {
+    "id": 9,
+    "name": "Apple IIGS",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/9"
+  },
+  {
+    "id": 12,
+    "name": "Apple III",
+    "introduced": "01 May 1980",
+    "discontinued": "01 Apr 1984",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/12"
+  },
+  {
+    "id": 17,
+    "name": "Apple III Plus",
+    "introduced": "01 Dec 1983",
+    "discontinued": "01 Apr 1984",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/17"
+  },
+  {
+    "id": 8,
+    "name": "Apple IIc",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/8"
+  },
+  {
+    "id": 10,
+    "name": "Apple IIc Plus",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/10"
+  },
+  {
+    "id": 7,
+    "name": "Apple IIe",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/7"
+  },
+  {
+    "id": 13,
+    "name": "Apple Lisa",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/13"
+  },
+  {
+    "id": 403,
+    "name": "Apple Network Server",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/403"
+  },
+  {
+    "id": 298,
+    "name": "Apple Newton",
+    "introduced": "01 Jan 1993",
+    "discontinued": "01 Jan 1998",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/298"
+  },
+  {
+    "id": 240,
+    "name": "Apple PenLite",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/240"
+  },
+  {
+    "id": 544,
+    "name": "Archos 101",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/544"
+  },
+  {
+    "id": 455,
+    "name": "Aster CT-80",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/455"
+  },
+  {
+    "id": 299,
+    "name": "Atanasoff-Berry Computer",
+    "introduced": "01 Jan 1937",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/299"
+  },
+  {
+    "id": 133,
+    "name": "Atari 1040 STe",
+    "introduced": "01 Jan 1989",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/133"
+  },
+  {
+    "id": 130,
+    "name": "Atari 1040 STf",
+    "introduced": "01 Jan 1986",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/130"
+  },
+  {
+    "id": 141,
+    "name": "Atari 1040 STfm",
+    "introduced": "01 Jan 1986",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/141"
+  },
+  {
+    "id": 137,
+    "name": "Atari 130 ST",
+    "introduced": "01 Jan 1985",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/137"
+  },
+  {
+    "id": 142,
+    "name": "Atari 2080 ST",
+    "introduced": "01 Jan 1986",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/142"
+  },
+  {
+    "id": 138,
+    "name": "Atari 260 ST",
+    "introduced": "01 Jan 1985",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/138"
+  },
+  {
+    "id": 143,
+    "name": "Atari 260 ST+",
+    "introduced": "01 Jan 1985",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/143"
+  },
+  {
+    "id": 144,
+    "name": "Atari 4160 STe",
+    "introduced": "01 Jan 1988",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/144"
+  },
+  {
+    "id": 131,
+    "name": "Atari 520 ST",
+    "introduced": "01 Jan 1985",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/131"
+  },
+  {
+    "id": 135,
+    "name": "Atari 520 ST+",
+    "introduced": "01 Jan 1985",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/135"
+  },
+  {
+    "id": 347,
+    "name": "Atari 520 STE",
+    "introduced": "01 Jan 1989",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/347"
+  },
+  {
+    "id": 140,
+    "name": "Atari 520 STf",
+    "introduced": "01 Jan 1986",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/140"
+  },
+  {
+    "id": 132,
+    "name": "Atari 520 STfm",
+    "introduced": "01 Jan 1986",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/132"
+  },
+  {
+    "id": 136,
+    "name": "Atari 520 STm",
+    "introduced": "01 Jan 1985",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/136"
+  },
+  {
+    "id": 172,
+    "name": "Atari 65XE",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Atari",
+    "url": "https://computer-database.gatling.io/computers/172"
+  },
+  {
+    "id": 139,
+    "name": "Atari MEGA ST",
+    "introduced": "01 Jan 1987",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/139"
+  },
+  {
+    "id": 134,
+    "name": "Atari MEGA STe",
+    "introduced": "01 Jan 1991",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/134"
+  },
+  {
+    "id": 122,
+    "name": "Atari ST",
+    "introduced": "01 Jan 1985",
+    "discontinued": "01 Jan 1993",
+    "company": "Atari",
+    "url": "https://computer-database.gatling.io/computers/122"
+  },
+  {
+    "id": 440,
+    "name": "Atari TT030",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/440"
+  },
+  {
+    "id": 300,
+    "name": "Atlas Computer",
+    "introduced": "01 Jan 1962",
+    "discontinued": "01 Jan 1974",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/300"
+  },
+  {
+    "id": 369,
+    "name": "BARK",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/369"
+  },
+  {
+    "id": 106,
+    "name": "BBC Micro",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Acorn computer",
+    "url": "https://computer-database.gatling.io/computers/106"
+  },
+  {
+    "id": 295,
+    "name": "BBN TC2000",
+    "introduced": "01 Aug 1989",
+    "discontinued": "-",
+    "company": "BBN Technologies",
+    "url": "https://computer-database.gatling.io/computers/295"
+  },
+  {
+    "id": 367,
+    "name": "BINAC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/367"
+  },
+  {
+    "id": 390,
+    "name": "BRLESC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/390"
+  },
+  {
+    "id": 528,
+    "name": "Barnes & Noble nook",
+    "introduced": "20 Oct 2009",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/528"
+  },
+  {
+    "id": 471,
+    "name": "Beagle Board",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Texas Instruments",
+    "url": "https://computer-database.gatling.io/computers/471"
+  },
+  {
+    "id": 338,
+    "name": "Belle",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/338"
+  },
+  {
+    "id": 442,
+    "name": "Bi Am ZX-Spectrum 128",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/442"
+  },
+  {
+    "id": 441,
+    "name": "Bi Am ZX-Spectrum 48/64",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/441"
+  },
+  {
+    "id": 527,
+    "name": "BlackBerry PlayBook",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Research In Motion",
+    "url": "https://computer-database.gatling.io/computers/527"
+  },
+  {
+    "id": 532,
+    "name": "BlackBerry PlayBook",
+    "introduced": "27 Sep 2010",
+    "discontinued": "-",
+    "company": "Research In Motion",
+    "url": "https://computer-database.gatling.io/computers/532"
+  },
+  {
+    "id": 475,
+    "name": "BladeSystem",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/475"
+  },
+  {
+    "id": 312,
+    "name": "Blue Gene",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/312"
+  },
+  {
+    "id": 380,
+    "name": "Bomba",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/380"
+  },
+  {
+    "id": 352,
+    "name": "CALDIC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/352"
+  },
+  {
+    "id": 407,
+    "name": "CER-10",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/407"
+  },
+  {
+    "id": 408,
+    "name": "CER-20",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/408"
+  },
+  {
+    "id": 508,
+    "name": "CER-203",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/508"
+  },
+  {
+    "id": 509,
+    "name": "CER-22",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/509"
+  },
+  {
+    "id": 247,
+    "name": "CM-1",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/247"
+  },
+  {
+    "id": 14,
+    "name": "CM-2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Thinking Machines",
+    "url": "https://computer-database.gatling.io/computers/14"
+  },
+  {
+    "id": 3,
+    "name": "CM-200",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Thinking Machines",
+    "url": "https://computer-database.gatling.io/computers/3"
+  },
+  {
+    "id": 2,
+    "name": "CM-2a",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Thinking Machines",
+    "url": "https://computer-database.gatling.io/computers/2"
+  },
+  {
+    "id": 5,
+    "name": "CM-5",
+    "introduced": "01 Jan 1991",
+    "discontinued": "-",
+    "company": "Thinking Machines",
+    "url": "https://computer-database.gatling.io/computers/5"
+  },
+  {
+    "id": 4,
+    "name": "CM-5e",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Thinking Machines",
+    "url": "https://computer-database.gatling.io/computers/4"
+  },
+  {
+    "id": 18,
+    "name": "COSMAC ELF",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "RCA",
+    "url": "https://computer-database.gatling.io/computers/18"
+  },
+  {
+    "id": 19,
+    "name": "COSMAC VIP",
+    "introduced": "01 Jan 1977",
+    "discontinued": "-",
+    "company": "RCA",
+    "url": "https://computer-database.gatling.io/computers/19"
+  },
+  {
+    "id": 497,
+    "name": "CS-2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/497"
+  },
+  {
+    "id": 375,
+    "name": "CSIRAC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/375"
+  },
+  {
+    "id": 81,
+    "name": "Canon Cat",
+    "introduced": "01 Jan 1987",
+    "discontinued": "-",
+    "company": "Canon",
+    "url": "https://computer-database.gatling.io/computers/81"
+  },
+  {
+    "id": 378,
+    "name": "ChipTest",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/378"
+  },
+  {
+    "id": 540,
+    "name": "Coleco Adam",
+    "introduced": "01 Jan 1983",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/540"
+  },
+  {
+    "id": 386,
+    "name": "Columbia",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/386"
+  },
+  {
+    "id": 54,
+    "name": "Commodore 128",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/54"
+  },
+  {
+    "id": 450,
+    "name": "Commodore 16",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/450"
+  },
+  {
+    "id": 51,
+    "name": "Commodore 64",
+    "introduced": "01 Aug 1982",
+    "discontinued": "01 Jan 1994",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/51"
+  },
+  {
+    "id": 52,
+    "name": "Commodore 64C",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/52"
+  },
+  {
+    "id": 449,
+    "name": "Commodore 65",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/449"
+  },
+  {
+    "id": 451,
+    "name": "Commodore CBM-II",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/451"
+  },
+  {
+    "id": 447,
+    "name": "Commodore Educator 64",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/447"
+  },
+  {
+    "id": 453,
+    "name": "Commodore LCD",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/453"
+  },
+  {
+    "id": 454,
+    "name": "Commodore MAX Machine",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/454"
+  },
+  {
+    "id": 50,
+    "name": "Commodore PET",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/50"
+  },
+  {
+    "id": 452,
+    "name": "Commodore Plus/4",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/452"
+  },
+  {
+    "id": 53,
+    "name": "Commodore SX-64",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/53"
+  },
+  {
+    "id": 271,
+    "name": "Commodore VIC-20",
+    "introduced": "01 Jan 1980",
+    "discontinued": "-",
+    "company": "Commodore International",
+    "url": "https://computer-database.gatling.io/computers/271"
+  },
+  {
+    "id": 212,
+    "name": "Compact Macintosh",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/212"
+  },
+  {
+    "id": 354,
+    "name": "Compaq SystemPro",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/354"
+  },
+  {
+    "id": 15,
+    "name": "Connection Machine",
+    "introduced": "01 Jan 1987",
+    "discontinued": "-",
+    "company": "Thinking Machines",
+    "url": "https://computer-database.gatling.io/computers/15"
+  },
+  {
+    "id": 116,
+    "name": "Cray C90",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/116"
+  },
+  {
+    "id": 121,
+    "name": "Cray CS6400",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/121"
+  },
+  {
+    "id": 119,
+    "name": "Cray J90",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/119"
+  },
+  {
+    "id": 118,
+    "name": "Cray SV1",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/118"
+  },
+  {
+    "id": 114,
+    "name": "Cray T3D",
+    "introduced": "01 Jan 1993",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/114"
+  },
+  {
+    "id": 115,
+    "name": "Cray T3E",
+    "introduced": "01 Jan 1995",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/115"
+  },
+  {
+    "id": 117,
+    "name": "Cray T90",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/117"
+  },
+  {
+    "id": 269,
+    "name": "Cray X-MP",
+    "introduced": "01 Jan 1982",
+    "discontinued": "-",
+    "company": "Cray",
+    "url": "https://computer-database.gatling.io/computers/269"
+  },
+  {
+    "id": 112,
+    "name": "Cray X1",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/112"
+  },
+  {
+    "id": 268,
+    "name": "Cray X2",
+    "introduced": "01 Jan 2007",
+    "discontinued": "-",
+    "company": "Cray",
+    "url": "https://computer-database.gatling.io/computers/268"
+  },
+  {
+    "id": 113,
+    "name": "Cray XD1",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/113"
+  },
+  {
+    "id": 120,
+    "name": "Cray XT3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/120"
+  },
+  {
+    "id": 108,
+    "name": "Cray-1",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/108"
+  },
+  {
+    "id": 110,
+    "name": "Cray-2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/110"
+  },
+  {
+    "id": 109,
+    "name": "Cray-3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/109"
+  },
+  {
+    "id": 111,
+    "name": "Cray-4",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/111"
+  },
+  {
+    "id": 460,
+    "name": "CrunchPad",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/460"
+  },
+  {
+    "id": 322,
+    "name": "D-Series Machines",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/322"
+  },
+  {
+    "id": 522,
+    "name": "D.K.COMMUNICATION",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/522"
+  },
+  {
+    "id": 436,
+    "name": "D4a",
+    "introduced": "01 Jan 1965",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/436"
+  },
+  {
+    "id": 399,
+    "name": "DASK",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/399"
+  },
+  {
+    "id": 397,
+    "name": "DATAR",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/397"
+  },
+  {
+    "id": 552,
+    "name": "DEC 2000 AXP",
+    "introduced": "25 May 1993",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/552"
+  },
+  {
+    "id": 551,
+    "name": "DEC 3000 AXP",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/551"
+  },
+  {
+    "id": 553,
+    "name": "DEC 4000 AXP",
+    "introduced": "10 Nov 1992",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/553"
+  },
+  {
+    "id": 554,
+    "name": "DEC 7000/10000 AXP",
+    "introduced": "10 Nov 1992",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/554"
+  },
+  {
+    "id": 550,
+    "name": "DEC Firefly",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/550"
+  },
+  {
+    "id": 562,
+    "name": "DEC GT40",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/562"
+  },
+  {
+    "id": 549,
+    "name": "DEC Multia",
+    "introduced": "07 Nov 1994",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/549"
+  },
+  {
+    "id": 548,
+    "name": "DEC Professional",
+    "introduced": "01 Jan 1982",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/548"
+  },
+  {
+    "id": 557,
+    "name": "DEC Professional 325",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/557"
+  },
+  {
+    "id": 555,
+    "name": "DEC Professional 350",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/555"
+  },
+  {
+    "id": 556,
+    "name": "DEC Rainbow 100",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/556"
+  },
+  {
+    "id": 260,
+    "name": "DECSYSTEM-20",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/260"
+  },
+  {
+    "id": 559,
+    "name": "DECmate",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/559"
+  },
+  {
+    "id": 558,
+    "name": "DECmate II",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/558"
+  },
+  {
+    "id": 560,
+    "name": "DECsystem",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/560"
+  },
+  {
+    "id": 401,
+    "name": "DRTE Computer",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/401"
+  },
+  {
+    "id": 391,
+    "name": "DYSEAC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/391"
+  },
+  {
+    "id": 389,
+    "name": "Datasaab D2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/389"
+  },
+  {
+    "id": 173,
+    "name": "Deep Blue",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/173"
+  },
+  {
+    "id": 228,
+    "name": "Deep Thought",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/228"
+  },
+  {
+    "id": 567,
+    "name": "Dell Inspiron 560 Desktop Computer",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/567"
+  },
+  {
+    "id": 332,
+    "name": "Dell Latitude",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/332"
+  },
+  {
+    "id": 572,
+    "name": "Dell Vostro",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/572"
+  },
+  {
+    "id": 275,
+    "name": "Digi-Comp",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/275"
+  },
+  {
+    "id": 274,
+    "name": "Digi-Comp I",
+    "introduced": "01 Jan 1963",
+    "discontinued": "-",
+    "company": "E.S.R. Inc.",
+    "url": "https://computer-database.gatling.io/computers/274"
+  },
+  {
+    "id": 276,
+    "name": "Digi-Comp II",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "E.S.R. Inc.",
+    "url": "https://computer-database.gatling.io/computers/276"
+  },
+  {
+    "id": 47,
+    "name": "Dragon 32/64",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/47"
+  },
+  {
+    "id": 161,
+    "name": "EDSAC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/161"
+  },
+  {
+    "id": 316,
+    "name": "EDSAC 2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/316"
+  },
+  {
+    "id": 366,
+    "name": "EDVAC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/366"
+  },
+  {
+    "id": 20,
+    "name": "ELF II",
+    "introduced": "01 Jan 1977",
+    "discontinued": "-",
+    "company": "Netronics",
+    "url": "https://computer-database.gatling.io/computers/20"
+  },
+  {
+    "id": 216,
+    "name": "EMac",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/216"
+  },
+  {
+    "id": 66,
+    "name": "ENIAC",
+    "introduced": "15 Feb 1946",
+    "discontinued": "02 Oct 1955",
+    "company": "Moore School of Electrical Engineering",
+    "url": "https://computer-database.gatling.io/computers/66"
+  },
+  {
+    "id": 358,
+    "name": "ES7000",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/358"
+  },
+  {
+    "id": 368,
+    "name": "Earth Simulator",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/368"
+  },
+  {
+    "id": 458,
+    "name": "Eee PC 1000HV",
+    "introduced": "22 May 2009",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/458"
+  },
+  {
+    "id": 432,
+    "name": "Elektronika BK",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/432"
+  },
+  {
+    "id": 507,
+    "name": "English Electric DEUCE",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/507"
+  },
+  {
+    "id": 416,
+    "name": "Enterprise",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/416"
+  },
+  {
+    "id": 270,
+    "name": "Evans & Sutherland ES-1",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Evans & Sutherland",
+    "url": "https://computer-database.gatling.io/computers/270"
+  },
+  {
+    "id": 394,
+    "name": "FUJIC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/394"
+  },
+  {
+    "id": 357,
+    "name": "Finite element machine",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/357"
+  },
+  {
+    "id": 545,
+    "name": "Fujitsu Lifebook T900",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/545"
+  },
+  {
+    "id": 430,
+    "name": "Galaksija",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/430"
+  },
+  {
+    "id": 160,
+    "name": "Game & Watch",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/160"
+  },
+  {
+    "id": 281,
+    "name": "Game Boy",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/281"
+  },
+  {
+    "id": 280,
+    "name": "Game Boy Advance",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/280"
+  },
+  {
+    "id": 285,
+    "name": "Game Boy Advance SP",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/285"
+  },
+  {
+    "id": 284,
+    "name": "Game Boy Color",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/284"
+  },
+  {
+    "id": 287,
+    "name": "Game Boy Micro",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/287"
+  },
+  {
+    "id": 157,
+    "name": "Game Boy line",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/157"
+  },
+  {
+    "id": 573,
+    "name": "Gateway LT3103U",
+    "introduced": "01 Jan 2008",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/573"
+  },
+  {
+    "id": 404,
+    "name": "Goodyear MPP",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/404"
+  },
+  {
+    "id": 320,
+    "name": "HP 2133 Mini-Note PC",
+    "introduced": "15 Apr 2008",
+    "discontinued": "-",
+    "company": "Hewlett-Packard",
+    "url": "https://computer-database.gatling.io/computers/320"
+  },
+  {
+    "id": 289,
+    "name": "HP 9000",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/289"
+  },
+  {
+    "id": 387,
+    "name": "HP Integrity",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/387"
+  },
+  {
+    "id": 359,
+    "name": "HP MediaSmart Server",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/359"
+  },
+  {
+    "id": 319,
+    "name": "HP Mini 1000",
+    "introduced": "29 Oct 2008",
+    "discontinued": "-",
+    "company": "Hewlett-Packard",
+    "url": "https://computer-database.gatling.io/computers/319"
+  },
+  {
+    "id": 360,
+    "name": "HP Superdome",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/360"
+  },
+  {
+    "id": 569,
+    "name": "HP TouchPad",
+    "introduced": "09 Feb 2011",
+    "discontinued": "-",
+    "company": "Hewlett-Packard",
+    "url": "https://computer-database.gatling.io/computers/569"
+  },
+  {
+    "id": 570,
+    "name": "HP Veer",
+    "introduced": "09 Feb 2011",
+    "discontinued": "-",
+    "company": "Hewlett-Packard",
+    "url": "https://computer-database.gatling.io/computers/570"
+  },
+  {
+    "id": 472,
+    "name": "HP nPar",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/472"
+  },
+  {
+    "id": 530,
+    "name": "HTC Dream",
+    "introduced": "22 Oct 2008",
+    "discontinued": "-",
+    "company": "HTC Corporation",
+    "url": "https://computer-database.gatling.io/computers/530"
+  },
+  {
+    "id": 446,
+    "name": "HTC Snap",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "HTC Corporation",
+    "url": "https://computer-database.gatling.io/computers/446"
+  },
+  {
+    "id": 370,
+    "name": "Harvard Mark I",
+    "introduced": "01 Jan 1944",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/370"
+  },
+  {
+    "id": 396,
+    "name": "Harvard Mark III",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/396"
+  },
+  {
+    "id": 377,
+    "name": "Harvest",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/377"
+  },
+  {
+    "id": 379,
+    "name": "HiTech",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/379"
+  },
+  {
+    "id": 340,
+    "name": "Hobbit",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/340"
+  },
+  {
+    "id": 168,
+    "name": "Http://nepomuk.semanticdesktop.org/xwiki/",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/168"
+  },
+  {
+    "id": 393,
+    "name": "Hydra",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/393"
+  },
+  {
+    "id": 310,
+    "name": "IBM 1401",
+    "introduced": "01 Jan 1959",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/310"
+  },
+  {
+    "id": 506,
+    "name": "IBM 305",
+    "introduced": "01 Jan 1956",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/506"
+  },
+  {
+    "id": 351,
+    "name": "IBM 3270",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/351"
+  },
+  {
+    "id": 499,
+    "name": "IBM 5100",
+    "introduced": "01 Jan 1975",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/499"
+  },
+  {
+    "id": 107,
+    "name": "IBM 650",
+    "introduced": "01 Jan 1953",
+    "discontinued": "01 Jan 1962",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/107"
+  },
+  {
+    "id": 498,
+    "name": "IBM 701",
+    "introduced": "01 Jan 1952",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/498"
+  },
+  {
+    "id": 303,
+    "name": "IBM 7030",
+    "introduced": "01 Jan 1961",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/303"
+  },
+  {
+    "id": 306,
+    "name": "IBM 7090",
+    "introduced": "01 Jan 1959",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/306"
+  },
+  {
+    "id": 309,
+    "name": "IBM 801",
+    "introduced": "01 Jan 1980",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/309"
+  },
+  {
+    "id": 163,
+    "name": "IBM AP-101",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/163"
+  },
+  {
+    "id": 165,
+    "name": "IBM AP-101B",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/165"
+  },
+  {
+    "id": 166,
+    "name": "IBM AP-101S",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/166"
+  },
+  {
+    "id": 409,
+    "name": "IBM BladeCenter",
+    "introduced": "01 Jan 2002",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/409"
+  },
+  {
+    "id": 502,
+    "name": "IBM CPC",
+    "introduced": "01 Jan 1949",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/502"
+  },
+  {
+    "id": 67,
+    "name": "IBM PC",
+    "introduced": "12 Aug 1981",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/67"
+  },
+  {
+    "id": 361,
+    "name": "IBM Power Systems",
+    "introduced": "01 Jan 2008",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/361"
+  },
+  {
+    "id": 307,
+    "name": "IBM RT",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/307"
+  },
+  {
+    "id": 467,
+    "name": "IBM Sequoia",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/467"
+  },
+  {
+    "id": 356,
+    "name": "IBM System Cluster 1350",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/356"
+  },
+  {
+    "id": 231,
+    "name": "IBM System i",
+    "introduced": "01 Jan 2006",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/231"
+  },
+  {
+    "id": 233,
+    "name": "IBM System p",
+    "introduced": "01 Jan 2000",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/233"
+  },
+  {
+    "id": 230,
+    "name": "IBM System x",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/230"
+  },
+  {
+    "id": 232,
+    "name": "IBM System z",
+    "introduced": "01 Jan 2006",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/232"
+  },
+  {
+    "id": 162,
+    "name": "IBM System/4 Pi",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/162"
+  },
+  {
+    "id": 164,
+    "name": "IBM TC-1",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/164"
+  },
+  {
+    "id": 372,
+    "name": "ILLIAC II",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/372"
+  },
+  {
+    "id": 373,
+    "name": "ILLIAC III",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/373"
+  },
+  {
+    "id": 371,
+    "name": "ILLIAC IV",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/371"
+  },
+  {
+    "id": 58,
+    "name": "IMSAI 8080",
+    "introduced": "01 Aug 1975",
+    "discontinued": "-",
+    "company": "IMS Associates, Inc.",
+    "url": "https://computer-database.gatling.io/computers/58"
+  },
+  {
+    "id": 59,
+    "name": "IMSAI Series Two",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/59"
+  },
+  {
+    "id": 224,
+    "name": "IMac G3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/224"
+  },
+  {
+    "id": 225,
+    "name": "IMac G4",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/225"
+  },
+  {
+    "id": 568,
+    "name": "IPad 2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/568"
+  },
+  {
+    "id": 514,
+    "name": "Inslaw",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/514"
+  },
+  {
+    "id": 227,
+    "name": "Intel iMac",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/227"
+  },
+  {
+    "id": 415,
+    "name": "Intergraph",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/415"
+  },
+  {
+    "id": 495,
+    "name": "Internet Tablet",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/495"
+  },
+  {
+    "id": 468,
+    "name": "Inves Spectrum 48k plus",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/468"
+  },
+  {
+    "id": 56,
+    "name": "KIM-1",
+    "introduced": "01 Jan 1975",
+    "discontinued": "-",
+    "company": "MOS Technology",
+    "url": "https://computer-database.gatling.io/computers/56"
+  },
+  {
+    "id": 510,
+    "name": "Kentucky Linux Athlon Testbed",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/510"
+  },
+  {
+    "id": 534,
+    "name": "Kno",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/534"
+  },
+  {
+    "id": 321,
+    "name": "Kogan Agora Pro",
+    "introduced": "04 Dec 2008",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/321"
+  },
+  {
+    "id": 429,
+    "name": "Komputer 2086",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/429"
+  },
+  {
+    "id": 234,
+    "name": "LC 575",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/234"
+  },
+  {
+    "id": 438,
+    "name": "LGP-21",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/438"
+  },
+  {
+    "id": 437,
+    "name": "LGP-30",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/437"
+  },
+  {
+    "id": 264,
+    "name": "LINC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/264"
+  },
+  {
+    "id": 571,
+    "name": "Lenovo Thinkpad Edge 11",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Lenovo Group",
+    "url": "https://computer-database.gatling.io/computers/571"
+  },
+  {
+    "id": 339,
+    "name": "Loki",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Sinclair Research Ltd",
+    "url": "https://computer-database.gatling.io/computers/339"
+  },
+  {
+    "id": 521,
+    "name": "MC240LL/A",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/521"
+  },
+  {
+    "id": 48,
+    "name": "MEK6800D2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/48"
+  },
+  {
+    "id": 457,
+    "name": "MSI GX723",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/457"
+  },
+  {
+    "id": 444,
+    "name": "MSI Wind Netbook",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/444"
+  },
+  {
+    "id": 248,
+    "name": "MSX",
+    "introduced": "01 Jan 1983",
+    "discontinued": "01 Jan 1995",
+    "company": "Zemmix",
+    "url": "https://computer-database.gatling.io/computers/248"
+  },
+  {
+    "id": 252,
+    "name": "MSX turbo R",
+    "introduced": "01 Jan 1990",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/252"
+  },
+  {
+    "id": 250,
+    "name": "MSX2",
+    "introduced": "01 Jan 1986",
+    "discontinued": "-",
+    "company": "ACVS",
+    "url": "https://computer-database.gatling.io/computers/250"
+  },
+  {
+    "id": 251,
+    "name": "MSX2+",
+    "introduced": "01 Jan 1988",
+    "discontinued": "-",
+    "company": "Sanyo",
+    "url": "https://computer-database.gatling.io/computers/251"
+  },
+  {
+    "id": 417,
+    "name": "MTX500",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/417"
+  },
+  {
+    "id": 26,
+    "name": "Mac Mini",
+    "introduced": "22 Jan 2005",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/26"
+  },
+  {
+    "id": 27,
+    "name": "Mac Pro",
+    "introduced": "07 Aug 2006",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/27"
+  },
+  {
+    "id": 89,
+    "name": "MacBook",
+    "introduced": "16 May 2006",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/89"
+  },
+  {
+    "id": 517,
+    "name": "MacBook 13-inch Core 2 Duo 2.13GHz (MC240LL/A) DDR2 Model",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/517"
+  },
+  {
+    "id": 518,
+    "name": "MacBook 13-inch Core 2 Duo 2.13GHz (MC240T/A) DDR2 Model",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/518"
+  },
+  {
+    "id": 519,
+    "name": "MacBook 13-inch Core 2 Duo 2.13GHz (MC240X/A) DDR2 Model",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/519"
+  },
+  {
+    "id": 520,
+    "name": "MacBook 13-inch Core 2 Duo 2.26GHz (Unibody MC207LL/A) DDR3 Model",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/520"
+  },
+  {
+    "id": 273,
+    "name": "MacBook Air",
+    "introduced": "15 Jan 2008",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/273"
+  },
+  {
+    "id": 473,
+    "name": "MacBook Family",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/473"
+  },
+  {
+    "id": 516,
+    "name": "MacBook Parts",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/516"
+  },
+  {
+    "id": 6,
+    "name": "MacBook Pro",
+    "introduced": "10 Jan 2006",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/6"
+  },
+  {
+    "id": 1,
+    "name": "MacBook Pro 15.4 inch",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/1"
+  },
+  {
+    "id": 21,
+    "name": "Macintosh",
+    "introduced": "24 Jan 1984",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/21"
+  },
+  {
+    "id": 77,
+    "name": "Macintosh 128K",
+    "introduced": "01 Jan 1984",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/77"
+  },
+  {
+    "id": 405,
+    "name": "Macintosh 128K technical details",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/405"
+  },
+  {
+    "id": 78,
+    "name": "Macintosh 512K",
+    "introduced": "10 Sep 1984",
+    "discontinued": "14 Apr 1986",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/78"
+  },
+  {
+    "id": 197,
+    "name": "Macintosh 512Ke",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/197"
+  },
+  {
+    "id": 68,
+    "name": "Macintosh Classic",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/68"
+  },
+  {
+    "id": 69,
+    "name": "Macintosh Classic II",
+    "introduced": "01 Jan 1991",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/69"
+  },
+  {
+    "id": 196,
+    "name": "Macintosh Color Classic",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/196"
+  },
+  {
+    "id": 22,
+    "name": "Macintosh II",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/22"
+  },
+  {
+    "id": 237,
+    "name": "Macintosh II series",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/237"
+  },
+  {
+    "id": 202,
+    "name": "Macintosh IIci",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/202"
+  },
+  {
+    "id": 184,
+    "name": "Macintosh IIcx",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/184"
+  },
+  {
+    "id": 24,
+    "name": "Macintosh IIfx",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/24"
+  },
+  {
+    "id": 198,
+    "name": "Macintosh IIsi",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/198"
+  },
+  {
+    "id": 222,
+    "name": "Macintosh IIvi",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/222"
+  },
+  {
+    "id": 223,
+    "name": "Macintosh IIvx",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/223"
+  },
+  {
+    "id": 199,
+    "name": "Macintosh IIx",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/199"
+  },
+  {
+    "id": 39,
+    "name": "Macintosh LC",
+    "introduced": "01 Jan 1990",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/39"
+  },
+  {
+    "id": 44,
+    "name": "Macintosh LC 500 series",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/44"
+  },
+  {
+    "id": 40,
+    "name": "Macintosh LC II",
+    "introduced": "01 Jan 1990",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/40"
+  },
+  {
+    "id": 41,
+    "name": "Macintosh LC III",
+    "introduced": "01 Jan 1993",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/41"
+  },
+  {
+    "id": 42,
+    "name": "Macintosh LC III+",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/42"
+  },
+  {
+    "id": 236,
+    "name": "Macintosh Performa",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/236"
+  },
+  {
+    "id": 23,
+    "name": "Macintosh Plus",
+    "introduced": "16 Jan 1986",
+    "discontinued": "15 Oct 1990",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/23"
+  },
+  {
+    "id": 215,
+    "name": "Macintosh Portable",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/215"
+  },
+  {
+    "id": 36,
+    "name": "Macintosh Quadra",
+    "introduced": "01 Jan 1991",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/36"
+  },
+  {
+    "id": 43,
+    "name": "Macintosh Quadra 605",
+    "introduced": "21 Oct 1993",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/43"
+  },
+  {
+    "id": 175,
+    "name": "Macintosh Quadra 610",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/175"
+  },
+  {
+    "id": 191,
+    "name": "Macintosh Quadra 630",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/191"
+  },
+  {
+    "id": 174,
+    "name": "Macintosh Quadra 650",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/174"
+  },
+  {
+    "id": 192,
+    "name": "Macintosh Quadra 660AV",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/192"
+  },
+  {
+    "id": 38,
+    "name": "Macintosh Quadra 700",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/38"
+  },
+  {
+    "id": 176,
+    "name": "Macintosh Quadra 800",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/176"
+  },
+  {
+    "id": 193,
+    "name": "Macintosh Quadra 840AV",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/193"
+  },
+  {
+    "id": 37,
+    "name": "Macintosh Quadra 900",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/37"
+  },
+  {
+    "id": 177,
+    "name": "Macintosh Quadra 950",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/177"
+  },
+  {
+    "id": 79,
+    "name": "Macintosh SE",
+    "introduced": "02 Mar 1987",
+    "discontinued": "01 Aug 1989",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/79"
+  },
+  {
+    "id": 80,
+    "name": "Macintosh SE/30",
+    "introduced": "19 Jan 1989",
+    "discontinued": "21 Oct 1991",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/80"
+  },
+  {
+    "id": 235,
+    "name": "Macintosh TV",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/235"
+  },
+  {
+    "id": 187,
+    "name": "Macintosh XL",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/187"
+  },
+  {
+    "id": 277,
+    "name": "Manchester Mark I",
+    "introduced": "01 Jan 1949",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/277"
+  },
+  {
+    "id": 496,
+    "name": "Meiko Computing Surface",
+    "introduced": "01 Jan 1986",
+    "discontinued": "01 Jan 1993",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/496"
+  },
+  {
+    "id": 363,
+    "name": "Microsoft Softcard",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/363"
+  },
+  {
+    "id": 564,
+    "name": "MindWave BrainCubed Education Bundle",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/564"
+  },
+  {
+    "id": 353,
+    "name": "Modbook",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/353"
+  },
+  {
+    "id": 293,
+    "name": "Motorola M8120",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/293"
+  },
+  {
+    "id": 546,
+    "name": "Motorola Xoom",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/546"
+  },
+  {
+    "id": 292,
+    "name": "Motorola series 900",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/292"
+  },
+  {
+    "id": 84,
+    "name": "Mylo",
+    "introduced": "21 Sep 2006",
+    "discontinued": "-",
+    "company": "Sony",
+    "url": "https://computer-database.gatling.io/computers/84"
+  },
+  {
+    "id": 526,
+    "name": "National Law Enforcement System",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/526"
+  },
+  {
+    "id": 341,
+    "name": "NeXT Computer",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "NeXT",
+    "url": "https://computer-database.gatling.io/computers/341"
+  },
+  {
+    "id": 91,
+    "name": "NeXTcube",
+    "introduced": "01 Jan 1988",
+    "discontinued": "01 Jan 1993",
+    "company": "NeXT",
+    "url": "https://computer-database.gatling.io/computers/91"
+  },
+  {
+    "id": 97,
+    "name": "NeXTcube 030",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "NeXT",
+    "url": "https://computer-database.gatling.io/computers/97"
+  },
+  {
+    "id": 96,
+    "name": "NeXTcube 040",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "NeXT",
+    "url": "https://computer-database.gatling.io/computers/96"
+  },
+  {
+    "id": 95,
+    "name": "NeXTcube Turbo",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "NeXT",
+    "url": "https://computer-database.gatling.io/computers/95"
+  },
+  {
+    "id": 90,
+    "name": "NeXTstation",
+    "introduced": "01 Jan 1990",
+    "discontinued": "01 Jan 1993",
+    "company": "NeXT",
+    "url": "https://computer-database.gatling.io/computers/90"
+  },
+  {
+    "id": 93,
+    "name": "NeXTstation Color",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/93"
+  },
+  {
+    "id": 92,
+    "name": "NeXTstation Color Turbo",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/92"
+  },
+  {
+    "id": 94,
+    "name": "NeXTstation Turbo",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/94"
+  },
+  {
+    "id": 541,
+    "name": "Nebulae",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/541"
+  },
+  {
+    "id": 461,
+    "name": "Neo Geo",
+    "introduced": "01 Jan 1990",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/461"
+  },
+  {
+    "id": 561,
+    "name": "NetApp Filer",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/561"
+  },
+  {
+    "id": 49,
+    "name": "Newbear 77/68",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/49"
+  },
+  {
+    "id": 524,
+    "name": "Nintendo 3DS",
+    "introduced": "23 Mar 2010",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/524"
+  },
+  {
+    "id": 279,
+    "name": "Nintendo 64",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/279"
+  },
+  {
+    "id": 283,
+    "name": "Nintendo DS",
+    "introduced": "01 Jan 2004",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/283"
+  },
+  {
+    "id": 282,
+    "name": "Nintendo DS Lite",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/282"
+  },
+  {
+    "id": 153,
+    "name": "Nintendo Entertainment System",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/153"
+  },
+  {
+    "id": 156,
+    "name": "Nintendo GameCube",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/156"
+  },
+  {
+    "id": 82,
+    "name": "Nokia 770",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nokia",
+    "url": "https://computer-database.gatling.io/computers/82"
+  },
+  {
+    "id": 83,
+    "name": "Nokia N800",
+    "introduced": "01 Jan 2007",
+    "discontinued": "-",
+    "company": "Nokia",
+    "url": "https://computer-database.gatling.io/computers/83"
+  },
+  {
+    "id": 315,
+    "name": "Nokia N810",
+    "introduced": "17 Oct 2007",
+    "discontinued": "-",
+    "company": "Nokia",
+    "url": "https://computer-database.gatling.io/computers/315"
+  },
+  {
+    "id": 494,
+    "name": "Nokia N900",
+    "introduced": "01 Oct 2009",
+    "discontinued": "-",
+    "company": "Nokia",
+    "url": "https://computer-database.gatling.io/computers/494"
+  },
+  {
+    "id": 291,
+    "name": "OMRON Luna-88K",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "OMRON",
+    "url": "https://computer-database.gatling.io/computers/291"
+  },
+  {
+    "id": 290,
+    "name": "OMRON Luna-88K2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/290"
+  },
+  {
+    "id": 86,
+    "name": "OQO 01+",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/86"
+  },
+  {
+    "id": 85,
+    "name": "OQO 02",
+    "introduced": "01 Jan 2007",
+    "discontinued": "-",
+    "company": "OQO",
+    "url": "https://computer-database.gatling.io/computers/85"
+  },
+  {
+    "id": 362,
+    "name": "Oslo Analyzer",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/362"
+  },
+  {
+    "id": 256,
+    "name": "PDP-1",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/256"
+  },
+  {
+    "id": 257,
+    "name": "PDP-10",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/257"
+  },
+  {
+    "id": 255,
+    "name": "PDP-11",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/255"
+  },
+  {
+    "id": 263,
+    "name": "PDP-12",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/263"
+  },
+  {
+    "id": 265,
+    "name": "PDP-14",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/265"
+  },
+  {
+    "id": 266,
+    "name": "PDP-15",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/266"
+  },
+  {
+    "id": 267,
+    "name": "PDP-16",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/267"
+  },
+  {
+    "id": 262,
+    "name": "PDP-5",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/262"
+  },
+  {
+    "id": 259,
+    "name": "PDP-6",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/259"
+  },
+  {
+    "id": 261,
+    "name": "PDP-7",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/261"
+  },
+  {
+    "id": 258,
+    "name": "PDP-8",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/258"
+  },
+  {
+    "id": 565,
+    "name": "PalmPilot",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/565"
+  },
+  {
+    "id": 253,
+    "name": "Panasonic FS A1GT",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/253"
+  },
+  {
+    "id": 254,
+    "name": "Panasonic FS A1ST",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/254"
+  },
+  {
+    "id": 337,
+    "name": "Pentagon",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/337"
+  },
+  {
+    "id": 318,
+    "name": "Pilot ACE",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/318"
+  },
+  {
+    "id": 87,
+    "name": "Pinwheel calculator",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/87"
+  },
+  {
+    "id": 158,
+    "name": "PlayStation",
+    "introduced": "03 Dec 1994",
+    "discontinued": "-",
+    "company": "Sony",
+    "url": "https://computer-database.gatling.io/computers/158"
+  },
+  {
+    "id": 159,
+    "name": "PlayStation 2",
+    "introduced": "24 Mar 2000",
+    "discontinued": "-",
+    "company": "Sony",
+    "url": "https://computer-database.gatling.io/computers/159"
+  },
+  {
+    "id": 249,
+    "name": "PlayStation 3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Sony",
+    "url": "https://computer-database.gatling.io/computers/249"
+  },
+  {
+    "id": 443,
+    "name": "PlayStation Portable",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/443"
+  },
+  {
+    "id": 466,
+    "name": "Pleiades",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/466"
+  },
+  {
+    "id": 204,
+    "name": "Power Mac G4",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/204"
+  },
+  {
+    "id": 226,
+    "name": "Power Mac G4 Cube",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/226"
+  },
+  {
+    "id": 218,
+    "name": "Power Mac G5",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/218"
+  },
+  {
+    "id": 28,
+    "name": "Power Macintosh",
+    "introduced": "01 Mar 1994",
+    "discontinued": "01 Aug 2006",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/28"
+  },
+  {
+    "id": 213,
+    "name": "Power Macintosh 4400",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/213"
+  },
+  {
+    "id": 245,
+    "name": "Power Macintosh 5200 LC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/245"
+  },
+  {
+    "id": 246,
+    "name": "Power Macintosh 5400",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/246"
+  },
+  {
+    "id": 243,
+    "name": "Power Macintosh 5500",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/243"
+  },
+  {
+    "id": 220,
+    "name": "Power Macintosh 6100",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/220"
+  },
+  {
+    "id": 210,
+    "name": "Power Macintosh 6200",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/210"
+  },
+  {
+    "id": 238,
+    "name": "Power Macintosh 6400",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/238"
+  },
+  {
+    "id": 239,
+    "name": "Power Macintosh 6500",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/239"
+  },
+  {
+    "id": 205,
+    "name": "Power Macintosh 7100",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/205"
+  },
+  {
+    "id": 207,
+    "name": "Power Macintosh 7200",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/207"
+  },
+  {
+    "id": 208,
+    "name": "Power Macintosh 7300",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/208"
+  },
+  {
+    "id": 219,
+    "name": "Power Macintosh 7500",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/219"
+  },
+  {
+    "id": 217,
+    "name": "Power Macintosh 7600",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/217"
+  },
+  {
+    "id": 211,
+    "name": "Power Macintosh 8100",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/211"
+  },
+  {
+    "id": 221,
+    "name": "Power Macintosh 8500",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/221"
+  },
+  {
+    "id": 209,
+    "name": "Power Macintosh 8600",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/209"
+  },
+  {
+    "id": 214,
+    "name": "Power Macintosh 9500",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/214"
+  },
+  {
+    "id": 206,
+    "name": "Power Macintosh 9600",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/206"
+  },
+  {
+    "id": 201,
+    "name": "Power Macintosh G3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/201"
+  },
+  {
+    "id": 406,
+    "name": "Power Macintosh G3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/406"
+  },
+  {
+    "id": 29,
+    "name": "PowerBook",
+    "introduced": "01 Jan 1991",
+    "discontinued": "01 Jan 2006",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/29"
+  },
+  {
+    "id": 188,
+    "name": "PowerBook 100",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/188"
+  },
+  {
+    "id": 183,
+    "name": "PowerBook 140",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/183"
+  },
+  {
+    "id": 190,
+    "name": "PowerBook 1400",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/190"
+  },
+  {
+    "id": 181,
+    "name": "PowerBook 145",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/181"
+  },
+  {
+    "id": 179,
+    "name": "PowerBook 145B",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/179"
+  },
+  {
+    "id": 272,
+    "name": "PowerBook 150",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/272"
+  },
+  {
+    "id": 178,
+    "name": "PowerBook 160",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/178"
+  },
+  {
+    "id": 180,
+    "name": "PowerBook 170",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/180"
+  },
+  {
+    "id": 35,
+    "name": "PowerBook 190",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/35"
+  },
+  {
+    "id": 189,
+    "name": "PowerBook 2400c",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/189"
+  },
+  {
+    "id": 195,
+    "name": "PowerBook 3400c",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/195"
+  },
+  {
+    "id": 200,
+    "name": "PowerBook 500 series",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/200"
+  },
+  {
+    "id": 194,
+    "name": "PowerBook 5300",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/194"
+  },
+  {
+    "id": 34,
+    "name": "PowerBook Duo",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/34"
+  },
+  {
+    "id": 182,
+    "name": "PowerBook G3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/182"
+  },
+  {
+    "id": 186,
+    "name": "PowerBook G4",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/186"
+  },
+  {
+    "id": 402,
+    "name": "PowerEdge",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/402"
+  },
+  {
+    "id": 31,
+    "name": "Powerbook 100",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/31"
+  },
+  {
+    "id": 32,
+    "name": "Powerbook 140",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/32"
+  },
+  {
+    "id": 33,
+    "name": "Powerbook 170",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/33"
+  },
+  {
+    "id": 185,
+    "name": "Powerbook 180",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/185"
+  },
+  {
+    "id": 167,
+    "name": "ProLiant",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Hewlett-Packard",
+    "url": "https://computer-database.gatling.io/computers/167"
+  },
+  {
+    "id": 511,
+    "name": "QNAP TS-101",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/511"
+  },
+  {
+    "id": 395,
+    "name": "RAYDAC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/395"
+  },
+  {
+    "id": 398,
+    "name": "ReserVec",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/398"
+  },
+  {
+    "id": 474,
+    "name": "Reservisor",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/474"
+  },
+  {
+    "id": 288,
+    "name": "Roadrunner",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/288"
+  },
+  {
+    "id": 529,
+    "name": "SAM Coupé",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/529"
+  },
+  {
+    "id": 392,
+    "name": "SSEC",
+    "introduced": "01 Jan 1948",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/392"
+  },
+  {
+    "id": 346,
+    "name": "ST BOOK",
+    "introduced": "01 Jan 1990",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/346"
+  },
+  {
+    "id": 345,
+    "name": "STacy",
+    "introduced": "01 Jan 1989",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/345"
+  },
+  {
+    "id": 531,
+    "name": "Samsung Galaxy Tab",
+    "introduced": "02 Sep 2010",
+    "discontinued": "-",
+    "company": "Samsung Electronics",
+    "url": "https://computer-database.gatling.io/computers/531"
+  },
+  {
+    "id": 463,
+    "name": "Sega Master System",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/463"
+  },
+  {
+    "id": 462,
+    "name": "Sega Mega Drive",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/462"
+  },
+  {
+    "id": 445,
+    "name": "Sharp Mebius NJ70A",
+    "introduced": "21 Apr 2009",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/445"
+  },
+  {
+    "id": 169,
+    "name": "Sinclair QL",
+    "introduced": "01 Jan 1984",
+    "discontinued": "01 Jan 1986",
+    "company": "Sinclair Research Ltd",
+    "url": "https://computer-database.gatling.io/computers/169"
+  },
+  {
+    "id": 171,
+    "name": "Sinclair ZX80",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Sinclair Research Ltd",
+    "url": "https://computer-database.gatling.io/computers/171"
+  },
+  {
+    "id": 170,
+    "name": "Sinclair ZX81",
+    "introduced": "01 Jan 1981",
+    "discontinued": "-",
+    "company": "Sinclair Research Ltd",
+    "url": "https://computer-database.gatling.io/computers/170"
+  },
+  {
+    "id": 278,
+    "name": "Small-Scale Experimental Machine",
+    "introduced": "01 Jan 1948",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/278"
+  },
+  {
+    "id": 419,
+    "name": "Sony Vaio P",
+    "introduced": "01 Feb 2009",
+    "discontinued": "-",
+    "company": "Sony",
+    "url": "https://computer-database.gatling.io/computers/419"
+  },
+  {
+    "id": 422,
+    "name": "Sony Vaio P VGN-P530H/G",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/422"
+  },
+  {
+    "id": 424,
+    "name": "Sony Vaio P VGN-P530H/Q",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/424"
+  },
+  {
+    "id": 425,
+    "name": "Sony Vaio P VGN-P530H/R",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/425"
+  },
+  {
+    "id": 423,
+    "name": "Sony Vaio P VGN-P530H/W",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/423"
+  },
+  {
+    "id": 421,
+    "name": "Sony Vaio P VGN-P588E/Q",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/421"
+  },
+  {
+    "id": 426,
+    "name": "Sony Vaio P VGN-P588E/R",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/426"
+  },
+  {
+    "id": 427,
+    "name": "Sony Vaio P VGN-P598E/Q",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/427"
+  },
+  {
+    "id": 335,
+    "name": "Sprinter",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/335"
+  },
+  {
+    "id": 465,
+    "name": "Sun-3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Sun Microsystems",
+    "url": "https://computer-database.gatling.io/computers/465"
+  },
+  {
+    "id": 433,
+    "name": "Sun386i",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Sun Microsystems",
+    "url": "https://computer-database.gatling.io/computers/433"
+  },
+  {
+    "id": 155,
+    "name": "Super Famicom",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/155"
+  },
+  {
+    "id": 154,
+    "name": "Super Nintendo Entertainment System",
+    "introduced": "01 Aug 1991",
+    "discontinued": "01 Jan 1999",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/154"
+  },
+  {
+    "id": 376,
+    "name": "System X",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/376"
+  },
+  {
+    "id": 505,
+    "name": "System/3",
+    "introduced": "01 Jan 1969",
+    "discontinued": "01 Jan 1985",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/505"
+  },
+  {
+    "id": 504,
+    "name": "System/32",
+    "introduced": "01 Jan 1975",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/504"
+  },
+  {
+    "id": 503,
+    "name": "System/34",
+    "introduced": "01 Jan 1978",
+    "discontinued": "01 Jan 1983",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/503"
+  },
+  {
+    "id": 305,
+    "name": "System/36",
+    "introduced": "01 Jan 1983",
+    "discontinued": "01 Jan 2000",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/305"
+  },
+  {
+    "id": 308,
+    "name": "System/360",
+    "introduced": "01 Jan 1964",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/308"
+  },
+  {
+    "id": 304,
+    "name": "System/38",
+    "introduced": "01 Jan 1979",
+    "discontinued": "-",
+    "company": "IBM",
+    "url": "https://computer-database.gatling.io/computers/304"
+  },
+  {
+    "id": 342,
+    "name": "TRS-80",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/342"
+  },
+  {
+    "id": 45,
+    "name": "TRS-80 Color Computer",
+    "introduced": "01 Jan 1980",
+    "discontinued": "-",
+    "company": "Tandy Corporation",
+    "url": "https://computer-database.gatling.io/computers/45"
+  },
+  {
+    "id": 145,
+    "name": "TRS-80 Color Computer 2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/145"
+  },
+  {
+    "id": 146,
+    "name": "TRS-80 Color Computer 3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/146"
+  },
+  {
+    "id": 147,
+    "name": "TRS-80 Model 1",
+    "introduced": "01 Jan 1977",
+    "discontinued": "-",
+    "company": "Tandy Corporation",
+    "url": "https://computer-database.gatling.io/computers/147"
+  },
+  {
+    "id": 343,
+    "name": "TRS-80 Model 2",
+    "introduced": "01 Jan 1980",
+    "discontinued": "-",
+    "company": "Tandy Corporation",
+    "url": "https://computer-database.gatling.io/computers/343"
+  },
+  {
+    "id": 344,
+    "name": "TRS-80 Model 3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Tandy Corporation",
+    "url": "https://computer-database.gatling.io/computers/344"
+  },
+  {
+    "id": 64,
+    "name": "TX-0",
+    "introduced": "01 Jan 1956",
+    "discontinued": "-",
+    "company": "Lincoln Laboratory",
+    "url": "https://computer-database.gatling.io/computers/64"
+  },
+  {
+    "id": 63,
+    "name": "TX-2",
+    "introduced": "01 Jan 1958",
+    "discontinued": "-",
+    "company": "Lincoln Laboratory",
+    "url": "https://computer-database.gatling.io/computers/63"
+  },
+  {
+    "id": 456,
+    "name": "Test",
+    "introduced": "01 Jan 2009",
+    "discontinued": "01 Jan 2009",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/456"
+  },
+  {
+    "id": 297,
+    "name": "ThinkPad",
+    "introduced": "01 Jan 1992",
+    "discontinued": "-",
+    "company": "Lenovo Group",
+    "url": "https://computer-database.gatling.io/computers/297"
+  },
+  {
+    "id": 536,
+    "name": "ThinkPad 340 CSE",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/536"
+  },
+  {
+    "id": 539,
+    "name": "ThinkPad 370 C",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/539"
+  },
+  {
+    "id": 535,
+    "name": "ThinkPad 701 C",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/535"
+  },
+  {
+    "id": 538,
+    "name": "ThinkPad 755 CE",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/538"
+  },
+  {
+    "id": 537,
+    "name": "ThinkPad 755 CX",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/537"
+  },
+  {
+    "id": 533,
+    "name": "Tianhe-I",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/533"
+  },
+  {
+    "id": 336,
+    "name": "Timex Computer 2048",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/336"
+  },
+  {
+    "id": 428,
+    "name": "Timex Sinclair 1000",
+    "introduced": "01 Jul 1982",
+    "discontinued": "-",
+    "company": "Timex Sinclair",
+    "url": "https://computer-database.gatling.io/computers/428"
+  },
+  {
+    "id": 334,
+    "name": "Timex Sinclair 2048",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Timex Sinclair",
+    "url": "https://computer-database.gatling.io/computers/334"
+  },
+  {
+    "id": 148,
+    "name": "Timex Sinclair 2068",
+    "introduced": "01 Nov 1983",
+    "discontinued": "01 Apr 1984",
+    "company": "Timex Sinclair",
+    "url": "https://computer-database.gatling.io/computers/148"
+  },
+  {
+    "id": 98,
+    "name": "Tinkertoy Tic-Tac-Toe Computer",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/98"
+  },
+  {
+    "id": 317,
+    "name": "Titan",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/317"
+  },
+  {
+    "id": 333,
+    "name": "Toshiba Satellite",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/333"
+  },
+  {
+    "id": 294,
+    "name": "Triton Dolphin System 100",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/294"
+  },
+  {
+    "id": 464,
+    "name": "TurboGrafx-16",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/464"
+  },
+  {
+    "id": 242,
+    "name": "Twentieth Anniversary Macintosh",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/242"
+  },
+  {
+    "id": 400,
+    "name": "UTEC",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/400"
+  },
+  {
+    "id": 566,
+    "name": "Upcoming iPhone 5",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/566"
+  },
+  {
+    "id": 420,
+    "name": "VAIO",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Sony",
+    "url": "https://computer-database.gatling.io/computers/420"
+  },
+  {
+    "id": 60,
+    "name": "VAX",
+    "introduced": "25 Oct 1977",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/60"
+  },
+  {
+    "id": 62,
+    "name": "VAX 11/750",
+    "introduced": "01 Oct 1980",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/62"
+  },
+  {
+    "id": 61,
+    "name": "VAX 11/780",
+    "introduced": "25 Oct 1977",
+    "discontinued": "-",
+    "company": "Digital Equipment Corporation",
+    "url": "https://computer-database.gatling.io/computers/61"
+  },
+  {
+    "id": 459,
+    "name": "VTech Laser 200",
+    "introduced": "01 Jan 1983",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/459"
+  },
+  {
+    "id": 431,
+    "name": "Vector-06C",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/431"
+  },
+  {
+    "id": 547,
+    "name": "ViewSonic G Tablet",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/547"
+  },
+  {
+    "id": 286,
+    "name": "Virtual Boy",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/286"
+  },
+  {
+    "id": 364,
+    "name": "WITCH",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/364"
+  },
+  {
+    "id": 296,
+    "name": "WRT54G",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/296"
+  },
+  {
+    "id": 241,
+    "name": "Wallstreet",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/241"
+  },
+  {
+    "id": 103,
+    "name": "Wang 2200",
+    "introduced": "01 May 1973",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/103"
+  },
+  {
+    "id": 105,
+    "name": "Wang OIS",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/105"
+  },
+  {
+    "id": 104,
+    "name": "Wang VS",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/104"
+  },
+  {
+    "id": 374,
+    "name": "Water integrator",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/374"
+  },
+  {
+    "id": 515,
+    "name": "WePad",
+    "introduced": "01 Jul 2010",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/515"
+  },
+  {
+    "id": 65,
+    "name": "Whirlwind",
+    "introduced": "20 Apr 1951",
+    "discontinued": "-",
+    "company": "Lincoln Laboratory",
+    "url": "https://computer-database.gatling.io/computers/65"
+  },
+  {
+    "id": 229,
+    "name": "Wii",
+    "introduced": "19 Nov 2006",
+    "discontinued": "-",
+    "company": "Nintendo",
+    "url": "https://computer-database.gatling.io/computers/229"
+  },
+  {
+    "id": 410,
+    "name": "Wisconsin Integrally Synchronized Computer",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/410"
+  },
+  {
+    "id": 151,
+    "name": "Xerox Alto",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/151"
+  },
+  {
+    "id": 434,
+    "name": "Xerox Daybreak",
+    "introduced": "01 Jan 1985",
+    "discontinued": "01 Jan 1989",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/434"
+  },
+  {
+    "id": 435,
+    "name": "Xerox NoteTaker",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Xerox",
+    "url": "https://computer-database.gatling.io/computers/435"
+  },
+  {
+    "id": 150,
+    "name": "Xerox Star",
+    "introduced": "01 Jan 1981",
+    "discontinued": "-",
+    "company": "Xerox",
+    "url": "https://computer-database.gatling.io/computers/150"
+  },
+  {
+    "id": 30,
+    "name": "Xserve",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/30"
+  },
+  {
+    "id": 101,
+    "name": "Z1",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/101"
+  },
+  {
+    "id": 102,
+    "name": "Z2",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/102"
+  },
+  {
+    "id": 99,
+    "name": "Z3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/99"
+  },
+  {
+    "id": 100,
+    "name": "Z4",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/100"
+  },
+  {
+    "id": 149,
+    "name": "ZX Spectrum",
+    "introduced": "01 Jan 1982",
+    "discontinued": "-",
+    "company": "Sinclair Research Ltd",
+    "url": "https://computer-database.gatling.io/computers/149"
+  },
+  {
+    "id": 329,
+    "name": "ZX Spectrum +",
+    "introduced": "01 Jun 1984",
+    "discontinued": "-",
+    "company": "Sinclair Research Ltd",
+    "url": "https://computer-database.gatling.io/computers/329"
+  },
+  {
+    "id": 327,
+    "name": "ZX Spectrum +2",
+    "introduced": "01 Jan 1986",
+    "discontinued": "-",
+    "company": "Amstrad",
+    "url": "https://computer-database.gatling.io/computers/327"
+  },
+  {
+    "id": 328,
+    "name": "ZX Spectrum +2A",
+    "introduced": "01 Jan 1987",
+    "discontinued": "-",
+    "company": "Amstrad",
+    "url": "https://computer-database.gatling.io/computers/328"
+  },
+  {
+    "id": 326,
+    "name": "ZX Spectrum +3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Amstrad",
+    "url": "https://computer-database.gatling.io/computers/326"
+  },
+  {
+    "id": 325,
+    "name": "ZX Spectrum 128",
+    "introduced": "01 Sep 1985",
+    "discontinued": "-",
+    "company": "Sinclair Research Ltd",
+    "url": "https://computer-database.gatling.io/computers/325"
+  },
+  {
+    "id": 324,
+    "name": "ZX Spectrum 16K",
+    "introduced": "01 Jan 1982",
+    "discontinued": "-",
+    "company": "Sinclair Research Ltd",
+    "url": "https://computer-database.gatling.io/computers/324"
+  },
+  {
+    "id": 323,
+    "name": "ZX Spectrum 48K",
+    "introduced": "01 Jan 1982",
+    "discontinued": "-",
+    "company": "Sinclair Research Ltd",
+    "url": "https://computer-database.gatling.io/computers/323"
+  },
+  {
+    "id": 563,
+    "name": "ecoATM",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/563"
+  },
+  {
+    "id": 88,
+    "name": "iBook",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/88"
+  },
+  {
+    "id": 244,
+    "name": "iBook G3",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/244"
+  },
+  {
+    "id": 25,
+    "name": "iMac",
+    "introduced": "01 Jan 1998",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/25"
+  },
+  {
+    "id": 203,
+    "name": "iMac G5",
+    "introduced": "31 Aug 2004",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/203"
+  },
+  {
+    "id": 512,
+    "name": "iPad",
+    "introduced": "01 Jan 2010",
+    "discontinued": "02 Mar 2011",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/512"
+  },
+  {
+    "id": 314,
+    "name": "iPhone",
+    "introduced": "01 Jun 2007",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/314"
+  },
+  {
+    "id": 513,
+    "name": "iPhone 2G",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/513"
+  },
+  {
+    "id": 469,
+    "name": "iPhone 3G",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/469"
+  },
+  {
+    "id": 470,
+    "name": "iPhone 3GS",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/470"
+  },
+  {
+    "id": 523,
+    "name": "iPhone 4",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/523"
+  },
+  {
+    "id": 574,
+    "name": "iPhone 4S",
+    "introduced": "14 Oct 2011",
+    "discontinued": "-",
+    "company": "Apple Inc.",
+    "url": "https://computer-database.gatling.io/computers/574"
+  },
+  {
+    "id": 484,
+    "name": "lenovo thinkpad r400",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/484"
+  },
+  {
+    "id": 488,
+    "name": "lenovo thinkpad r61",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/488"
+  },
+  {
+    "id": 490,
+    "name": "lenovo thinkpad sl400",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/490"
+  },
+  {
+    "id": 493,
+    "name": "lenovo thinkpad t400s",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/493"
+  },
+  {
+    "id": 480,
+    "name": "lenovo thinkpad t41",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/480"
+  },
+  {
+    "id": 487,
+    "name": "lenovo thinkpad t42",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/487"
+  },
+  {
+    "id": 483,
+    "name": "lenovo thinkpad t43",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/483"
+  },
+  {
+    "id": 478,
+    "name": "lenovo thinkpad t60",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/478"
+  },
+  {
+    "id": 476,
+    "name": "lenovo thinkpad t60p",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/476"
+  },
+  {
+    "id": 489,
+    "name": "lenovo thinkpad w500",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/489"
+  },
+  {
+    "id": 479,
+    "name": "lenovo thinkpad w700",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/479"
+  },
+  {
+    "id": 477,
+    "name": "lenovo thinkpad x200",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Lenovo Group",
+    "url": "https://computer-database.gatling.io/computers/477"
+  },
+  {
+    "id": 492,
+    "name": "lenovo thinkpad x200 tablet",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "Lenovo Group",
+    "url": "https://computer-database.gatling.io/computers/492"
+  },
+  {
+    "id": 486,
+    "name": "lenovo thinkpad x301",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/486"
+  },
+  {
+    "id": 491,
+    "name": "lenovo thinkpad x40",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/491"
+  },
+  {
+    "id": 485,
+    "name": "lenovo thinkpad x60s",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/485"
+  },
+  {
+    "id": 482,
+    "name": "lenovo thinkpad x61s",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/482"
+  },
+  {
+    "id": 481,
+    "name": "lenovo thinkpad z61p",
+    "introduced": "-",
+    "discontinued": "-",
+    "company": "-",
+    "url": "https://computer-database.gatling.io/computers/481"
+  }
+]

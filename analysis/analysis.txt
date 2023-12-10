@@ -1,0 +1,197 @@
+# The product: Computer database
+
+1. Which page are we going to test?
+A: https://computer-database.gatling.io/computers
+
+2. What are the scopes contained on this exercise and what is out of scope?
+A: This exercise aims to showcase my skills and testing approach, I don't intend to cover all the scenarios
+on this framework demonstration, but instead write down what I'd cover and at what level they should be.
+
+3. What scenarios would be meaningful to have covered (on CRUD for computers)?
+
+3.1 - [WEB]
+[Landing Page - https://computer-database.gatling.io/computers]
+Scenario: Navigating to the adding new computer page
+  Given a user at the computers dashboard page
+  When the user presses the "Add a new computer" button
+  Then the user sees the add a computer page
+
+[Add a new computer form]
+[Landing Page - https://computer-database.gatling.io/computers/new]
+Scenario: Adding a new computer successfully
+  Given a user at the adding new computer form page
+  When the user creates a new computer with the following details
+    | computer name | introduced | discontinued | company    |
+    | new mac       |            |              | Apple Inc. |
+  Then the user should be at the '/computers' page
+  And the user shall see an alert message stating "Done ! Computer {computername} has been created"
+
+[Update an existing computer]
+[Landing Page - https://computer-database.gatling.io/computers/{computerid}]
+Scenario: Editing a new computer successfully
+  Given a user at an existent computer form page
+  When the user changes a computer name to "newname-{timestamp}"
+  Then the user should be at the '/computers' page
+  And the user shall see an alert message stating "Done ! Computer {computername} has been updated"
+
+[Delete an existing computer]
+[Landing Page - https://computer-database.gatling.io/computers/{computerid}]
+Scenario: Deleting a computer successfully
+  Given a user at an existent computer form page
+  When the user clicks the Delete this computer button
+  Then the user should be at the '/computers' page
+  And the user shall see an alert message stating "Done ! Computer {computername} has been deleted"
+
+[Landing Page - https://computer-database.gatling.io/computers]
+Scenario: Canceling a create computer
+  Given a user at the computers dashboard page
+  When the user presses the "Add a new computer" button
+  Then the user sees the add a computer page
+  When the user populates all mandatory fields
+  And the user cancels adding a new computer
+  Then the user is back at the computer dashboard
+  And no new computer was added
+
+[Landing Page - https://computer-database.gatling.io/computers]
+Scenario: Editing an existent computer
+  Given a user at the computers dashboard page
+  When the user selects a computer
+  Then the user sees the edit computer page with the fields pre-populated
+  When the user changes the fields to valid fields on their sections
+  And the user cancels adding a new computer
+  Then the user is back at the computer dashboard
+  And the computer that was to be changed is still as it was before
+
+3.2 - [API]
+*create computer*
+
+  [actual behavior ❌]
+  Endpoint - https://computer-database.gatling.io/computers
+  HTTP method - POST
+  Payload - (missing)
+  Response status - 303 (see other) (redirect? wrong...)
+
+  Expected:
+  [Successes]
+  Endpoint - https://computer-database.gatling.io/computers
+  HTTP method - POST
+  ✅successful #1 Payload - {
+    computer_name: "valid-something",
+    introduced: "valid-date",
+    discontinued: "valid-date",
+    company: "valid-company"
+  }
+  Status code - 201 (created)
+
+  ✅successful #2 
+  {
+    computer_name: "valid-something",
+    introduced: "",
+    discontinued: "valid-date",
+    company: "valid-company"
+  }
+  Response status - 201 (created)
+
+  ✅successful #3 
+  {
+    computer_name: "valid-something",
+    introduced: "valid-date",
+    discontinued: "",
+    company: "valid-company"
+  }
+  Response status - 201 (created)
+
+[mandatory field tests (computer_name in this case)]
+  * nonexistent "computer_name"    key -> response = 422 status code | body message "computer name field is mandatory and is missing"
+..testing limits:
+  (pretending values as these should come from planning and the exercise doesn't have any references) - computer name should be a string, with a max of 100 characters, and should be able to use ascii only characters.
+  * empty "computer_name"          key -> response = 400 status code | body message "computer name field cannot be empty"
+  * non string "computer_name"     key -> response = 400 status code | body message "computer name field should be a string"
+  * 100 characters "computer_name" key -> response = 201 status code
+  * 101 characters "computer_name" key -> response = 406 status code | body message "computer name field should contain only ascii characters"
+
+[date fields tests]
+  * non mandatory fields, so these should work if not included on the request body or if empty.
+  [format]
+  * date format adopted is 'yyyy-MM-dd', so any format that doesn't respect the expected string -> response = 406 status code | body message "date field for {introduced|discontinued} should be in the expected format yyyy-MM-dd"
+  * date well formatted but date ot of reasonable range - date can't be in the future and date can't be lower than 1800.
+  special scenario:
+  in case "introduced" field is populated with a valid date and "discontinued" field is also populated the discontinued date should never be before the introduced date.
+
+[company field tests]
+  * non mandatory field, so this should work if not included on the request body or if empty.
+  * when included the option should be an item from the list, if not there should be a -> response = 404 not found
+
+================================================================
+
+[Update]
+[actual behavior ❌]
+Endpoint - https://computer-database.gatling.io/computers
+HTTP method - POST
+Payload - 
+```
+name: correctData
+introduced: correctData
+discontinued: correctData
+company: correctData
+```
+Response status - 303 (see other) (redirect? wrong...)
+
+Scenario: Editing an existing computer successfully
+considering the validations and limitations mentioned for the creation and the fields, the difference should be replacement of the item we were editing.
+
+edit should send a PUT http request instead of a POST since we update the whole entry and not create a new one.
+PUT instead of PATCH since we're updating the whole entry and not just a single field.
+Response status - should have been 200
+
+================================================================
+
+[Delete]
+[actual behavior ❌]
+Endpoint - https://computer-database.gatling.io/computers
+HTTP method - POST
+Payload -
+```
+<empty>
+```
+Response status - 303 (see other) (redirect? wrong...)
+
+Scenario: Deleting an existing computer successfully
+delete should send a DELETE http request instead of a POST
+response could be empty
+status code should 
+Response status - should have been 204
+
+================================================================
+
+4. What scenarios would be meaningful to have covered for searching and listing the results?
+
+4.1[Listing]
+4.1.1 Listing the results should be clear on what order is being followed.
+(actually starts well but we can assure, the presented order not being alphabetical, or any of the date and times)
+4.1.2 The listed results match the fields populated on each computer ✅
+4.1.3 Pagination starts in 0 and has the right amount of items mentioned on the found section.
+4.1.4 Pagination displays "Nothing to display" when the page is above the limit of items ✅
+4.1.5 Pagination gives a 400 ✅ when showing a page that is far too big, ⚠️could be better on the messaging.
+4.1.6 Pagination doesn't allow negative values ✅
+4.1.7 Pagination doesn't allow values different than integers ✅
+
+4.2[Search]
+4.2.1 Search requests for input when clean and search button clicked ✅
+4.2.2 Search shows accurate results for searched string ✅
+4.2.3 Search shows accurate results in combination with pagination ✅
+
+4.3[Results]
+4.3.1 count on available results successful (for total and for search) ✅
+4.3.2 count on available results for current page and total amount of pages ✅
+4.3.3 Next button working well for all pages and also disabled on max page ✅
+4.3.4 Previous button working well for all pages and also disabled on min page ✅
+4.3.5 Showing "Displaying 5781 to 5780 of 574" isn't correct as it should just mentioned that we're out of range, or fall back to the page with the most items and not allow any other above that. ⚠️
+
+5 - [Test areas out of current scope]
+-> Security(pen testing like sql injection or xss/ slow loris attacks/ ddos vulnerability...)
+-> Performance(time for first interaction/page results loading time/time to save/time to patch...)
+-> Accessibility(a brief mention will be added but I'm not going to dive into great details over it)
+-> Load Performance testing
+
+
